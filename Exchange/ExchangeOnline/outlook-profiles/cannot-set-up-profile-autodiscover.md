@@ -101,7 +101,7 @@ To use Remote Connectivity Analyzer to test whether Exchange Autodiscover is wor
 
 You can use the [Get-RemoteMailbox](https://technet.microsoft.com/library/ff607426%28v=exchg.160%29.aspx) cmdlet to determine the whether the following attributes are set correctly for the user. Common issues occur when a value is not set for one or more of these attributes. The following is an example of the correct attributes.
 
-|Attribute| Example |
+|Attribute| Examples |
 |-|-|
 |primarySMTPAddress|ted@contoso.com |
 |alias|ted |
